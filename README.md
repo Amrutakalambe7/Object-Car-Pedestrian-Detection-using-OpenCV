@@ -1,8 +1,10 @@
 Project Overview:
+
 The car and pedestrian detection project aims to develop a computer vision system that can automatically detect and localize cars and pedestrians in images or video streams. This type of project is essential for 
 various applications, including advanced driver-assistance systems (ADAS), traffic monitoring, and surveillance.
 
 Key Components:
+
 Data Collection and Annotation: The first step in the project involves collecting a large dataset of images or videos containing cars and pedestrians. These datasets are then annotated to mark the location and category of each object (car or pedestrian) in the images. Annotation can be done manually or using automated tools.
 
 Model Selection: Next, a suitable deep learning model architecture is selected for object detection. Popular choices include Faster R-CNN, YOLO (You Only Look Once), and SSD (Single Shot MultiBox Detector). These models are trained on large datasets using techniques like transfer learning to adapt them to the specific task of car and pedestrian detection.
